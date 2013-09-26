@@ -1,0 +1,193 @@
+Cellar|Base|Action|2
+Chapel|Base|Action|2
+Moat|Base|Action - Reaction|2
+Chancellor|Base|Action|3
+Village|Base|Action|3
+Woodcutter|Base|Action|3
+Workshop|Base|Action|3
+Bureaucrat|Base|Action - Attack|4
+Feast|Base|Action|4
+Gardens|Base|Victory|4
+Militia|Base|Action - Attack|4
+Moneylender|Base|Action|4
+Remodel|Base|Action|4
+Smithy|Base|Action|4
+Spy|Base|Action - Attack|4
+Thief|Base|Action - Attack|4
+Throne Room|Base|Action|4
+Council Room|Base|Action|5
+Festival|Base|Action|5
+Laboratory|Base|Action|5
+Library|Base|Action|5
+Market|Base|Action|5
+Mine|Base|Action|5
+Witch|Base|Action - Attack|5
+Adventurer|Base|Action|6
+Courtyard|Intrigue|Action|2
+Pawn|Intrigue|Action|2
+Secret Chamber|Intrigue|Action - Reaction|2
+Great Hall|Intrigue|Action - Victory|3
+Masquerade|Intrigue|Action|3
+Shanty Town|Intrigue|Action|3
+Steward|Intrigue|Action|3
+Swindler|Intrigue|Action - Attack|3
+Wishing Well|Intrigue|Action|3
+Baron|Intrigue|Action|4
+Bridge|Intrigue|Action|4
+Conspirator|Intrigue|Action|4
+Coppersmith|Intrigue|Action|4
+Ironworks|Intrigue|Action|4
+Mining Village|Intrigue|Action|4
+Scout|Intrigue|Action|4
+Duke|Intrigue|Victory|5
+Minion|Intrigue|Action - Attack|5
+Saboteur|Intrigue|Action - Attack|5
+Torturer|Intrigue|Action - Attack|5
+Trading Post|Intrigue|Action|5
+Tribute|Intrigue|Action|5
+Upgrade|Intrigue|Action|5
+Harem|Intrigue|Treasure - Victory|6
+Nobles|Intrigue|Action - Victory|6
+Embargo|Seaside|Action|2
+Haven|Seaside|Action - Duration|2
+Lighthouse|Seaside|Action - Duration|2
+Native Village|Seaside|Action|2
+Pearl Diver|Seaside|Action|2
+Ambassador|Seaside|Action - Attack|3
+Fishing Village|Seaside|Action - Duration|3
+Lookout|Seaside|Action|3
+Smugglers|Seaside|Action|3
+Warehouse|Seaside|Action|3
+Caravan|Seaside|Action - Duration|4
+Cutpurse|Seaside|Action - Attack|4
+Island|Seaside|Action - Victory|4
+Navigator|Seaside|Action|4
+Pirate Ship|Seaside|Action - Attack|4
+Salvager|Seaside|Action|4
+Sea Hag|Seaside|Action - Attack|4
+Treasure Map|Seaside|Action|4
+Bazaar|Seaside|Action|5
+Explorer|Seaside|Action|5
+Ghost Ship|Seaside|Action - Attack|5
+Merchant Ship|Seaside|Action - Duration|5
+Outpost|Seaside|Action - Duration|5
+Tactician|Seaside|Action - Duration|5
+Treasury|Seaside|Action|5
+Wharf|Seaside|Action - Duration|5
+Transmute|Alchemy|Action|$0 1P
+Vineyard|Alchemy|Victory|$0 1P
+Apothecary|Alchemy|Action|$2 1P
+Herbalist|Alchemy|Action|2
+Scrying Pool|Alchemy|Action - Attack|$2 1P
+University|Alchemy|Action|$2 1P
+Alchemist|Alchemy|Action|$3 1P
+Familiar|Alchemy|Action - Attack|$3 1P
+Philosopher's Stone|Alchemy|Treasure|$3 1P
+Golem|Alchemy|Action|$4 1P
+Potion|Alchemy|Treasure|4
+Apprentice|Alchemy|Action|5
+Possession|Alchemy|Action|$6 1P
+Loan|Prosperity|Treasure|3
+Trade Route|Prosperity|Action|3
+Watchtower|Prosperity|Reaction|3
+Bishop|Prosperity|Action|4
+Monument|Prosperity|Action|4
+Quarry|Prosperity|Treasure|4
+Talisman|Prosperity|Treasure|4
+Worker's Village|Prosperity|Action|4
+City|Prosperity|Action|5
+Contraband|Prosperity|Treasure|5
+Counting House|Prosperity|Action|5
+Mint|Prosperity|Action|5
+Mountebank|Prosperity|Action - Attack|5
+Rabble|Prosperity|Action - Attack|5
+Royal Seal|Prosperity|Treasure|5
+Vault|Prosperity|Action|5
+Venture|Prosperity|Treasure|5
+Goons|Prosperity|Action - Attack|6
+Grand Market|Prosperity|Action|6
+Hoard|Prosperity|Treasure|6
+Bank|Prosperity|Treasure|7
+Expand|Prosperity|Action|7
+Forge|Prosperity|Action|7
+King's Court|Prosperity|Action|7
+Peddler|Prosperity|Action|8
+Platinum|Prosperity|Treasure|9
+Colony|Prosperity|Victory|11
+Bag of Gold|Cornucopia|Action - Prize|0
+Diadem|Cornucopia|Treasure - Prize|0
+Followers|Cornucopia|Action - Attack - Prize|0
+Princess|Cornucopia|Action - Prize|0
+Trusty Steed|Cornucopia|Action - Prize|0
+Hamlet|Cornucopia|Action|2
+Fortune Teller|Cornucopia|Action - Attack|3
+Menagerie|Cornucopia|Action|3
+Farming Village|Cornucopia|Action|4
+Horse Traders|Cornucopia|Action - Reaction|4
+Remake|Cornucopia|Action|4
+Tournament|Cornucopia|Action|4
+Young Witch|Cornucopia|Action - Attack|4
+Harvest|Cornucopia|Action|5
+Horn of Plenty|Cornucopia|Treasure|5
+Hunting Party|Cornucopia|Action|5
+Jester|Cornucopia|Action - Attack|5
+Fairgrounds|Cornucopia|Victory|6
+Crossroads|Hinterlands|Action|2
+Duchess|Hinterlands|Action|2
+Fool's Gold|Hinterlands|Treasure - Reaction|2
+Develop|Hinterlands|Action|3
+Oasis|Hinterlands|Action|3
+Oracle|Hinterlands|Action - Attack|3
+Scheme|Hinterlands|Action|3
+Tunnel|Hinterlands|Victory - Reaction|3
+Jack of all Trades|Hinterlands|Action|4
+Noble Brigand|Hinterlands|Action - Attack|4
+Nomad Camp|Hinterlands|Action|4
+Silk Road|Hinterlands|Victory|4
+Spice Merchant|Hinterlands|Action|4
+Trader|Hinterlands|Action - Reaction|4
+Cache|Hinterlands|Treasure|5
+Cartographer|Hinterlands|Action|5
+Embassy|Hinterlands|Action|5
+Haggler|Hinterlands|Action|5
+Highway|Hinterlands|Action|5
+Ill-Gotten Gains|Hinterlands|Treasure|5
+Inn|Hinterlands|Action|5
+Mandarin|Hinterlands|Action|5
+Margrave|Hinterlands|Action - Attack|5
+Stables|Hinterlands|Action|5
+Border Village|Hinterlands|Action|6
+Farmland|Hinterlands|Victory|6
+Abandoned Mine|Dark Ages|Action - Ruins|0
+Madman|Dark Ages|Action|0
+Ruined Library|Dark Ages|Action - Ruins|0
+Ruined Market|Dark Ages|Action - Ruins|0
+Ruined Village|Dark Ages|Action - Ruins|0
+Spoils|Dark Ages|Treasure|0
+Survivors|Dark Ages|Action - Ruins|0
+Hovel|Dark Ages|Reaction - Shelter|1
+Necropolis|Dark Ages|Action - Shelter|1
+Overgrown Estate|Dark Ages|Victory - Shelter|1
+Poor House|Dark Ages|Action|1
+Squire|Dark Ages|Action|2
+Vagrant|Dark Ages|Action|2
+Hermit|Dark Ages|Action|3
+Sage|Dark Ages|Action|3
+Feodum|Dark Ages|Victory|4
+Fortress|Dark Ages|Action|4
+Ironmonger|Dark Ages|Action|4
+Procession|Dark Ages|Action|4
+Rats|Dark Ages|Action|4
+Band of Misfits|Dark Ages|Action|5
+Bandit Camp|Dark Ages|Action|5
+Count|Dark Ages|Action|5
+Cultist|Dark Ages|Action - Attack - Looter|5
+Graverobber|Dark Ages|Action|5
+Pillage|Dark Ages|Action - Attack|5
+Scavenger|Dark Ages|Action|5
+Altar|Dark Ages|Action|6
+Black Market|Promo|Action|3
+Envoy|Promo|Action|4
+Walled Village|Promo|Action|4
+Governor|Promo|Action|5
+Stash|Promo|Treasure|5
